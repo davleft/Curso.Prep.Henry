@@ -176,9 +176,6 @@ function esPositivo(numero) {
     return "Es Positivo";
   }else {
     return "Es Negativo";
-
-
-    
   }
 }
 
